@@ -1,4 +1,19 @@
 {
-  "id": 1,
-  "title": "hello"
+ "product": [{
+        "title": "Bag",
+         "image": "https://via.placeholder.com/203x203",
+         "price": "$66.00"
+      },{
+        "title": "Shoes",
+         "image": "https://via.placeholder.com/203x203",
+         "price": "$35.00"
+      },{
+        "title": "T-Shirt",
+         "image": "https://via.placeholder.com/203x203",
+         "price": "$25.00"
+      },{
+        "title": "Short",
+         "image": "https://via.placeholder.com/203x203",
+         "price": "$48.00"
+      }]
 }
