@@ -2,42 +2,42 @@
  "product": [{
          "id": 1,
         "title": "Bag",
-         "image": "https://via.placeholder.com/268",
+         "image": "https://via.placeholder.com/270",
          "price": "$66.00"
       },{
         "id": 2,
         "title": "Shoes",
-         "image": "https://via.placeholder.com/268",
+         "image": "https://via.placeholder.com/270",
          "price": "$35.00"
       },{
        "id": 3,
         "title": "T-Shirt",
-         "image": "https://via.placeholder.com/268",
+         "image": "https://via.placeholder.com/270",
          "price": "$25.00"
       },{
        "id": 4,
         "title": "Test 4",
-         "image": "https://via.placeholder.com/268",
+         "image": "https://via.placeholder.com/270",
          "price": "$25.00"
       },{
        "id": 5,
         "title": "Test 5",
-         "image": "https://via.placeholder.com/268",
+         "image": "https://via.placeholder.com/270",
          "price": "$25.00"
       },{
        "id": 6,
         "title": "Test 6",
-         "image": "https://via.placeholder.com/268",
+         "image": "https://via.placeholder.com/270",
          "price": "$25.00"
       },{
        "id": 7,
         "title": "Test 7",
-         "image": "https://via.placeholder.com/268",
+         "image": "https://via.placeholder.com/270",
          "price": "$25.00"
       },{
        "id": 8,
         "title": "Short",
-         "image": "https://via.placeholder.com/268",
+         "image": "https://via.placeholder.com/270",
          "price": "$48.00"
       }]
 }
